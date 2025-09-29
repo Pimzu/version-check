@@ -3,8 +3,8 @@
   "changelog": {
     "1.0.1": {
       "Added": [
-        "Auto Detection For Core (Qb|Esx)",
-        "Auto Detection For SQL Resource (mysql-async | oxmysql | ghmattimysql)"
+        "Auto Detection For Core",
+        "Auto Detection For SQL Resources"
       ],
       "Removed":[
         "Stationary Peds"
