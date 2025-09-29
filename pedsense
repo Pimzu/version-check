@@ -6,8 +6,11 @@
         "Auto Detection For Core (Qb|Esx)",
         "Auto Detection For SQL Resource (mysql-async | oxmysql | ghmattimysql)"
       ],
-      "Denji":[
-        "Hi Pookie"
+      "Removed":[
+        "Stationary Peds"
+      ],
+     "Adjusted":[
+        "Logic For Spawning Npcs"
       ]
     }
   }
