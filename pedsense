@@ -2,7 +2,7 @@
   "latest": "1.0.1",
   "changelog": {
     "1.0.1": {
-      "added": [
+      "Added": [
         "Auto Detection For Core (Qb|Esx)",
         "Auto Detection For SQL Resource (mysql-async | oxmysql | ghmattimysql)"
       ]
