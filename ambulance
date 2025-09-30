@@ -1,17 +1,7 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.0",
   "changelog": {
-    "1.0.1": {
-      "Added": [
-        "Auto Detection For Core",
-        "Auto Detection For SQL Resources"
-      ],
-      "Removed":[
-        "Stationary Peds"
-      ],
-     "Adjusted":[
-        "Logic For Spawning Npcs"
-      ]
+    "1.0.0": {
     }
   }
 }
