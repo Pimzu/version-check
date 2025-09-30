@@ -12,7 +12,12 @@
      "Adjusted":[
         "Logic For Spawning Npcs"
       ]
-    }
+    },
+     "1.0.2": {
+        "Fixed": [
+          "The Database Error If Table Is Not Setup",
+        ]
+      }
   }
 }
 
