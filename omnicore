@@ -1,12 +1,11 @@
 {
   "latest": "1.0.1",
   "changelog": {
-    "1.0.0": {
-    },
-   "1.0.1": {
-        Added = {
-          'More Custom Functions To The Bridge'
-        }
+    "1.0.0": {},
+    "1.0.1": {
+      "Added": [
+        "More Custom Functions To The Bridge"
+      ]
     }
   }
 }
