@@ -1,7 +1,13 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "changelog": {
     "1.0.0": {
+    },
+    "1.0.1": {
+      "Added": [
+        "Qbox Integration",
+        "Fast Functions With Less Errors"
+      ]
     }
   }
 }
