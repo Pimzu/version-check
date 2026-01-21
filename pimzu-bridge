@@ -6,7 +6,10 @@
     "1.0.1": {
       "Added": [
         "Qbox Integration",
-        "Fast Functions With Less Errors"
+        "Client Functions",
+      ],
+      "Updated": [
+        "Server Functions",
       ]
     }
   }
