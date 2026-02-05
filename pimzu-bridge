@@ -11,6 +11,19 @@
       "Updated": [
         "Server Functions",
       ]
+    },
+    "1.0.2": {
+      "Added": [
+        "Auto Target Detection for Ox & Qb",
+        "Custom Integration For Target System",
+        "Custom Integration For Inventory",
+        "Custom Integration For Core",
+        "Option To Silence Ambient Music In Server",
+        "Option To Silence Car Radio Player",
+      ],
+      "Fixed": [
+        "Minor Printing Issue",
+      ]
     }
   }
 }
