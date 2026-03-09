@@ -3,8 +3,8 @@
   "changelog": {
     "1.0.0": {},
     "1.0.1": {
-      "Added": [
-        "More Custom Functions To The Bridge"
+      "description": [
+        "Full script rewrite. Optimized functions for improved performance, added custom integration options, and fixed multiple bugs"
       ]
     }
   }
