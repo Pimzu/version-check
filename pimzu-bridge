@@ -1,18 +1,17 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "changelog": {
     "1.0.0": {
     },
     "1.0.1": {
-      "Added": [
-        "Qbox Integration",
-        "Client Functions",
-      ],
-      "Updated": [
-        "Server Functions",
+      "description": [
+        "Optimized functions for improved performance, added custom integration options, and fixed multiple bugs"
       ]
     },
     "1.0.2": {
+      "description": [
+        "Full script rewrite. Optimized functions for improved performance, added custom integration options, and fixed multiple bugs"
+      ],
       "Added": [
         "Auto Target Detection for Ox & Qb",
         "Custom Integration For Target System",
