@@ -2,7 +2,7 @@
   "latest": "1.0.1",
   "changelog": {
     "1.0.0": {
-        "description": null
+        "description": ""
     },
     "1.0.1": {
       "description": "Full script rewrite. Optimized functions for improved performance, added custom integration options, and fixed multiple bugs"
