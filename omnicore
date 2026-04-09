@@ -1,12 +1,14 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "changelog": {
     "1.0.0": {
-        "description": ""
+      "description": "Initial release of the resource"
     },
     "1.0.1": {
-      "description": "Full script rewrite. Optimized functions for improved performance, added custom integration options, and fixed multiple bugs"
-      
+      "description": "UI and usability improvements across the resource. Refined layout, improved visual consistency, and enhanced overall user experience"
+    },
+    "1.0.2": {
+      "description": "Complete redesign of the resource. Fully rewritten codebase with a new UI, improved structure, optimized performance, and expanded customization options"
     }
   }
 }
