@@ -1,27 +1,24 @@
 {
-  "latest": "1.0.2",
+  "latest": "1.0.3",
   "changelog": {
     "1.0.0": {
+      "description": [
+        "Initial release of the resource."
+      ]
     },
     "1.0.1": {
       "description": [
-        "Optimized functions for improved performance, added custom integration options, and fixed multiple bugs"
+        "Optimized core functions, added custom integration support, and resolved multiple bugs."
       ]
     },
     "1.0.2": {
       "description": [
-        "Full script rewrite. Optimized functions for improved performance, added custom integration options, and fixed multiple bugs"
-      ],
-      "Added": [
-        "Auto Target Detection for Ox & Qb",
-        "Custom Integration For Target System",
-        "Custom Integration For Inventory",
-        "Custom Integration For Core",
-        "Option To Silence Ambient Music In Server",
-        "Option To Silence Car Radio Player",
-      ],
-      "Fixed": [
-        "Minor Printing Issue",
+        "Complete script rewrite with major performance improvements, expanded integration support, automatic target detection for Ox Target and QB Target, options to disable ambient music and vehicle radio, and minor bug fixes."
+      ]
+    },
+    "1.0.3": {
+      "description": [
+        "Added a bridge user interface, improved overall usability, and updated the override system to support license, steam, and other identifiers instead of license only."
       ]
     }
   }
