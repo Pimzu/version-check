@@ -1,14 +1,17 @@
 {
-  "latest": "1.0.2",
+  "latest": "1.0.3",
   "changelog": {
     "1.0.0": {
       "description": "Initial release of the resource"
     },
     "1.0.1": {
-      "description": "UI and usability improvements across the resource. Refined layout, improved visual consistency, and enhanced overall user experience"
+      "description": "UI and usability improvements across the resource. Refined layout, improved visual consistency, and enhanced overall user experience."
     },
     "1.0.2": {
-      "description": "Complete redesign of the resource. Fully rewritten codebase with a new UI, improved structure, optimized performance, and expanded customization options"
+      "description": "Complete redesign of the resource. Fully rewritten codebase with a new UI, improved structure, optimized performance, and expanded customization options."
+    },
+   "1.0.3": {
+      "description": "Resolved an issue where the command could be left blank and fail to open, and improved box styling consistency."
     }
   }
 }
