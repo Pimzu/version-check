@@ -14,7 +14,7 @@
       "description": "Resolved an issue where the command could be left blank and fail to open, and improved box styling consistency."
     },
     "1.0.4": {
-      "description": "Added a longer wait time to start the menu to give ite time to load and added vehicle keys."
+      "description": "Added a longer wait time to start the menu to give categories time to load in and added vehicle keys."
     }
   }
 }
