@@ -18,6 +18,9 @@
     },
     "1.0.5": {
       "description": "Fixed Minor issue where search bar isnt clear on opening"
+    },
+    "1.0.6": {
+      "description": "Major Script rewrite and fixed issue where items wouldnt scroll sometimes"
     }
   }
 }
