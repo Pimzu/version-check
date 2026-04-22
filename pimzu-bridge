@@ -18,8 +18,8 @@
     },
     "1.0.3": {
       "description": [
-        "Added a bridge user interface, improved overall usability, and updated the override system to support license, steam, and other identifiers instead of license only."
+        "Added a bridge user interface, improved overall usability, and updated the override system to support license, steam, and other identifiers instead of license only"
       ]
-    }
+    },
   }
 }
