@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.4",
+  "latest": "1.0.5",
   "changelog": {
     "1.0.0": {
       "description": "Initial release of the resource"
@@ -15,6 +15,9 @@
     },
     "1.0.4": {
       "description": "Added a longer wait time to start the menu to give categories time to load in and added vehicle keys."
+    },
+    "1.0.5": {
+      "description": "Fixed Minor issue where search bar isnt clear on opening"
     }
   }
 }
