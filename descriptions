@@ -1,1 +1,46 @@
-
+{
+  "resources": {
+    "omnicore": {
+      "name": "OmniCore",
+      "docs": "https://docs.pimzu.com/fivem/omnicore/locations",
+      "summary": "OmniCore is a FiveM admin and server management panel built to make managing a server faster and easier through a visual in-game interface. It supports frameworks such as QBCore, ESX, Qbox, and custom setups depending on configuration.",
+      "features": [
+        "View and manage items, jobs, vehicles, and weapons",
+        "Save, view, and teleport to MLO or location entries",
+        "Configure many settings through the UI instead of manual coding",
+        "Manage permissions and quality-of-life admin features",
+        "Auto-detect supported frameworks and pull server data"
+      ],
+      "docs_topics": [
+        "installation",
+        "configuration",
+        "permissions",
+        "keybinds",
+        "commands",
+        "locations",
+        "framework support",
+        "usage help"
+      ],
+      "ticket_worthy": [
+        "customer did not receive files or access after purchase",
+        "UI does not open",
+        "data pages do not load",
+        "permissions are not saving",
+        "framework integration is broken",
+        "resource throws errors",
+        "feature not working as intended",
+        "bug after update"
+      ],
+      "docs_first": [
+        "how to install",
+        "how to configure",
+        "how to add locations",
+        "how to set permissions",
+        "how to change command",
+        "how to change keybind",
+        "how to use a feature",
+        "general setup questions"
+      ]
+    }
+  }
+}
