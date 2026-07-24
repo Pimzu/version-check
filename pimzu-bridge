@@ -21,14 +21,14 @@
         "Added a bridge user interface, improved overall usability, and updated the override system to support license, steam, and other identifiers instead of license only"
       ]
     },
-  "1.0.4": {
-    "description": [
-      "Fixed multiple bridge and dependency issues, improved active resource detection and override handling, resolved stale resource problems, improved startup behavior, fixed command validation and sanitization, improved camera cleanup, and cleaned up several internal systems for better overall stability and usability"
-    ]
-  },
-   "1.0.5": {
-    "description": [
-      "Added a built-in bridge audio system for playing and managing sounds across supported frameworks."
-    ]
-  }
+    "1.0.4": {
+      "description": [
+        "Fixed multiple bridge and dependency issues, improved active resource detection and override handling, resolved stale resource problems, improved startup behavior, fixed command validation and sanitization, improved camera cleanup, and cleaned up several internal systems for better overall stability and usability"
+      ]
+    },
+     "1.0.5": {
+      "description": [
+        "Added a built-in bridge audio system for playing and managing sounds across supported frameworks."
+      ]
+    }
 }
