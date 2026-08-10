@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.7",
+  "latest": "1.0.8",
   "changelog": {
     "1.0.0": {
       "description": "Initial release of the resource"
@@ -24,6 +24,9 @@
     },
     "1.0.7": {
       "description": "Fixed multiple permission and callback related issues, improved load order handling, fixed several nil and bridge related errors, improved inventory and core data handling, fixed UI interaction problems causing access denied errors, improved internal validation and stability, and optimized several client and server side systems"
+    },
+   "1.0.8": {
+       "description": "Complete redesign of the resource. Added Multi-Language Support. Confirm or delete modal for locations."
     }
   }
 }
