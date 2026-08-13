@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.5",
+  "latest": "1.0.6",
   "changelog": {
     "1.0.0": {
       "description": [
@@ -29,6 +29,11 @@
      "1.0.5": {
       "description": [
         "Added a built-in bridge audio system for playing and managing sounds across supported frameworks."
+      ]
+    },
+    "1.0.6": {
+      "description": [
+        "Huge Ui Update. Added Ped and Vehicle Density To the Bridge. Added Ak47 Inventory"
       ]
     }
 }
