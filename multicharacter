@@ -1,8 +1,11 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "changelog": {
     "1.0.0": {
       "description": "Initial release of the resource"
     },
+    "1.0.1": {
+      "description": "Fixed temporary character previews incorrectly appearing as real characters by isolating preview data from the original character list."
+    }
   }
 }
