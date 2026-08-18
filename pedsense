@@ -1,8 +1,11 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "changelog": {
     "1.0.0": {
       "description": "Initial release of the resource"
     },
+    "1.0.1": {
+      "description": "Fixed issues with peds spawning in the air, client-side peds being visible to all players, and the ped menu incorrectly changing outfits for regular players."
+    }
   }
 }
