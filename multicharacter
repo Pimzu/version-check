@@ -7,7 +7,7 @@
     "1.0.1": {
       "description": "Fixed temporary character previews incorrectly appearing as real characters."
     },
-   "1.0.1": {
+   "1.0.2": {
       "description": "Fixed a bug where if you pressed the play button twice by accident it kicked the player for exploit."
     }
   }
